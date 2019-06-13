@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://raw.githubusercontent.com/Yexiaoxing/blockcerts-trial/master/revocation-list.json",
+  "id": "https://raw.githubusercontent.com/lbz-wolf/Prueba_TFG/master/revocation-list.json",
   "type": "RevocationList",
   "issuer": "https://raw.githubusercontent.com/lbz-wolf/Prueba_TFG/master/issuer.json",
   "revokedAssertions": [{
